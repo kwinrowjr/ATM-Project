@@ -1,0 +1,13 @@
+C:\Users\Dro\Desktop\ATM\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\Dro\Desktop\ATM\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\Dro\Desktop\ATM\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\Dro\Desktop\ATM\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\Dro\Desktop\ATM\ATM\ATM\obj\Debug\ATM.Form1.resources
+C:\Users\Dro\Desktop\ATM\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Dro\Desktop\ATM\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+C:\Users\Dro\Desktop\ATM\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\Dro\Desktop\ATM\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\Dro\Desktop\ATM\ATM\ATM\obj\Debug\ATM.Form2.resources
+E:\ATM\ATM\ATM\bin\Debug\ATM.exe.config
+E:\ATM\ATM\ATM\obj\Debug\ATM.exe
+E:\ATM\ATM\ATM\obj\Debug\ATM.pdb
